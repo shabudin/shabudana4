@@ -1,0 +1,19 @@
+{
+	"food": [
+    {
+			"name": "bagel",
+			"price": "3.40",
+			"calories": "320"
+		},
+		{
+			"name": "oatmeal",
+			"price": "2.20",
+			"calories": "200"
+		},
+		{
+			"name": "hashbrown",
+			"price": "3.00",
+			"calories": "400"
+		}
+	]
+}

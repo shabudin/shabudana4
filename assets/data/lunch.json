@@ -1,0 +1,19 @@
+{
+	"food": [
+    {
+			"name": "pizza",
+			"price": "3.00",
+			"calories": "450"
+		},
+		{
+			"name": "chicken",
+			"price": "5.00",
+			"calories": "300"
+		},
+		{
+			"name": "greeksalad",
+			"price": "4.00",
+			"calories": "350"
+		}
+	]
+}

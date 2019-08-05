@@ -1,0 +1,19 @@
+{
+	"food": [
+    {
+			"name": "halibut",
+			"price": "16.00",
+			"calories": "300"
+		},
+		{
+			"name": "steak",
+			"price": "18.00",
+			"calories": "500"
+		},
+		{
+			"name": "bigmac",
+			"price": "8.00",
+			"calories": "450"
+		}
+	]
+}
